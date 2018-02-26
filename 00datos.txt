@@ -1,0 +1,9 @@
+Sofía Vidal Urriza y Elisa Mérida Coronel
+g708
+
+-Se ha probado en la plataforma Android.
+-Se han realizado las dos mejoras:
+	1) Navegacion
+	2) Almacenamiento de visitas: como criterio de diseño hemos decidido que 
+	si estamos en la pantalla en la que se cargan las visitas almacenadas y se
+	da al boton de borrar todas las visitas almacenadas, se descarguen todas las visitas del CRM.
